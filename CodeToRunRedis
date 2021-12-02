@@ -1,0 +1,11 @@
+install the redis on the PC
+
+https://www.runoob.com/redis/redis-install.html
+
+run the redis in the cmd
+
+cd..
+cd..
+D:
+cd 软件\Redis-x64-5.0.14
+redis-server.exe redis.windows.conf
